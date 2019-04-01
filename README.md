@@ -1,6 +1,6 @@
 ## Demonstration-of-Graph-search-algorithms:
 
-As we known, popular graph search algorithms are DFS, BFS, Dijkstra and A*.
+This program implements some graph search algorithms, such as DFS, BFS, Dijkstra and A*.
 
 For this program, it simply implements all of these four algorithms and further demonstrates each specialities.
 
