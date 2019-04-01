@@ -14,4 +14,4 @@ Compare to the normal Dijkstra, it runs faster but not neccessarily return the b
 
 ## How to run this project
 
-`<addr>`python 
+Simply type `python `
