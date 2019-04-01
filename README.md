@@ -1,4 +1,4 @@
-Demonstration-of-Graph-search-algorithms:
+## Demonstration-of-Graph-search-algorithms:
 
 As we known, popular graph search algorithms are DFS, BFS, Dijkstra and A*.
 
@@ -11,3 +11,5 @@ On the contrary, for Dijkstra and A*, they are mainly focused on solving shortes
 Note that for A*, we use a herustic function to find a "fairly" good path between start and end point. 
 
 Compare to the normal Dijkstra, it runs faster but not neccessarily return the best result.
+
+## How to run this project
