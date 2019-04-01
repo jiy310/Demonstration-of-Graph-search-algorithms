@@ -13,3 +13,5 @@ Note that for A*, we use a herustic function to find a "fairly" good path betwee
 Compare to the normal Dijkstra, it runs faster but not neccessarily return the best result.
 
 ## How to run this project
+
+`<addr>`python 
