@@ -14,4 +14,9 @@ Compare to the normal Dijkstra, it runs faster but not neccessarily return the b
 
 ## How to run this project
 
-Simply type `python `
+Simply run `python gridworld.py` in the current program directory.
+(For mac user, python 2 recommended)
+
+After the pygame GUI initializes, follow the instructions on the board:
+Press Enter to find path or pause, press 'c' to clear board
+Press 1 for DFS, 2 for BFS, 3 for UCS, 4 for A*
