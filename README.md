@@ -8,7 +8,7 @@ On the contrary, for Dijkstra and A*, they are mainly focused on solving shortes
 
 Note that for A*, we use a herustic function to find a "fairly" good path between start and end point. 
 
-Compare to the normal Dijkstra, it runs faster but not neccessarily return the best result.
+Compare to the "naive" Dijkstra, it runs faster but not neccessarily return the best result.
 
 ## How to run this project
 
