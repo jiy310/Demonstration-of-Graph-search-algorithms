@@ -2,8 +2,6 @@
 
 This program implements some graph search algorithms, such as DFS, BFS, Dijkstra and A*.
 
-For this program, it simply implements all of these four algorithms and further demonstrates each specialities.
-
 For DFS and BFS, they are used to find shortest path in an undirected graph. 
 
 On the contrary, for Dijkstra and A*, they are mainly focused on solving shortest path question in a directed graph.
